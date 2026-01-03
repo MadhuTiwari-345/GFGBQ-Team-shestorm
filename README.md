@@ -7,27 +7,31 @@ Repository for shestorm - Vibe Coding Hackathon
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 
-# 🛡️ Real-Time Audio Fraud Detection for Scam Prevention
-
+#Problem Statement: 🛡️ Real-Time Audio Fraud Detection for Scam Prevention
 ### Conversation Intelligence for the AI vs AI Era (2026)
 
 > **Social Cause Track**
-> **Team SHESTORM**
+> **Team SheStorm**
 > *In a world where every voice can be cloned, intent cannot hide.*
 
 ## 👥 Team & Contributors
 
-**Team Name:** **SHESTORM**
+**Team Name:** **SheStorm**
+
+
 
 View app : https://shestorm-ai-fraud-defender-73291669658.us-west1.run.app
 
 Demo Link & PPT(PDF) : https://drive.google.com/drive/folders/1y_DknpPaxDXdqYZMj07zlWCOonYMsOap?usp=sharing
 
+
+
 ### 👩‍💻 Contributors
+
 
 | Name         | Role                              |
 |--------------|-----------------------------------|
-| Yamini        | Frontend & UX                     |
+| Yamini       | Frontend & UX                     |
 | Ishani Gupta | Backend & API Development         |
 | Madhu Tiwari | AI / Machine Learning             |
 | Khushi Verma | Research, Documentation & Testing |
@@ -35,7 +39,9 @@ Demo Link & PPT(PDF) : https://drive.google.com/drive/folders/1y_DknpPaxDXdqYZMj
 
 📌 This project was collaboratively researched, architected, and implemented by **Team SHESTORM**.
 
+
 ## 📌 Introduction
+
 
 Voice fraud has evolved from simple scam calls into **AI-powered psychological attacks**.
 
@@ -52,11 +58,15 @@ Yet most systems still ask:
 
 ❌ This question is no longer sufficient.
 
+
 ### ✅ Our Approach
+
 
 We introduce a **Real-Time Audio Fraud Detection System** that focuses on **detecting fraudulent intent and manipulative behavior during live conversations**, before irreversible actions are taken.
 
+
 ## ❗ Problem Statement
+
 
 ### Why current solutions fail:
 
@@ -65,9 +75,12 @@ We introduce a **Real-Time Audio Fraud Detection System** that focuses on **dete
 * Fraud detection is reactive
 * Users are expected to “be careful”
 
+
 📌 Financial loss happens **within seconds** of answering a call.
 
+
 ## 🧠 Core Philosophy
+
 
 ### Shift from *Identity → Intent*
 
@@ -87,7 +100,9 @@ Our system focuses on:
 📌 Voices can be cloned.
 📌 **Intent cannot hide.**
 
+
 ## 📞 How Fraud Appears in a Simple Call
+
 
 Scam calls follow repeatable behavioral patterns:
 
@@ -99,9 +114,12 @@ Scam calls follow repeatable behavioral patterns:
 
 Our system detects these patterns **in real time**, even on first-time calls.
 
+
 ## 🔍 How Fraud is Detected (Detailed Explanation)
 
+
 ### 1️⃣ Intent Detection — *What is being said*
+
 
 Analyzes:
 
@@ -110,9 +128,12 @@ Analyzes:
 * Financial intent (*OTP, PIN*)
 * Isolation (*don’t tell anyone*)
 
+
 📌 Detection is based on **intent combinations**, not keywords.
 
+
 ### 2️⃣ Behavioral Analysis — *How it is said*
+
 
 Detects:
 
@@ -120,37 +141,48 @@ Detects:
 * Repetition
 * Interruptions
 * Dominant tone escalation
+  
 
 📌 Scammers follow scripts. Normal conversations adapt.
 
+
 ### 3️⃣ Emotional Manipulation Detection
+
 
 Detects:
 
 * Stress mismatch
 * Fear induction
 * Aggression inconsistent with role
+  
 
 📌 A “bank agent” using threats → **High-risk indicator**
 
+
 ## 🆚 Number-Based vs Conversation-Based Detection
 
+
 ### ❌ Number-Based
+
 
 * Depends on blacklists
 * Easily bypassed
 * Fails on first contact
 
+
 ### ✅ Conversation-Based (Our System)
+
 
 * Ignores phone numbers
 * Analyzes live dialogue
 * Detects fraud immediately
 
+
 📌 Fraud is revealed by **conversation behavior**, not caller ID.
 
 
 ## 🆚 Competitive Advantage
+
 
 | Competitor    | Strength       | Limitation           | Our Advantage                    |
 | ------------- | -------------- | -------------------- | -------------------------------- |
@@ -159,7 +191,9 @@ Detects:
 | Nuance        | IVR security   | High latency         | Edge-ready system                |
 | Call Blockers | Number lists   | Easily spoofed       | Conversation intelligence        |
 
+
 ## ⚙️ System Architecture
+
 
 Live Audio Stream
    ↓
@@ -177,6 +211,7 @@ User Alert & Prevention
 
 
 ## 🧠 AI / ML Pipeline
+
 
 ### Acoustic Layer
 
@@ -204,6 +239,7 @@ User Alert & Prevention
 
 ## 🖥️ Backend Architecture
 
+
 **Tech Stack**
 
 * Python (FastAPI)
@@ -217,8 +253,10 @@ User Alert & Prevention
 * Risk aggregation
 * Alert triggering
 * Event logging
+  
 
 ## 🎨 Frontend Architecture
+
 
 **Web Dashboard**
 
@@ -234,7 +272,9 @@ User Alert & Prevention
 * Voice alerts
 * Elder-friendly design
 
+
 ## 🗄️ Database Design
+
 
 **Database**
 
@@ -251,7 +291,9 @@ Optional:
 
 * Vector DB for scam phrase embeddings
 
+
 ## 🧪 Dataset Strategy
+
 
 ### Why Synthetic Data?
 
@@ -271,7 +313,9 @@ Labels:
 * `0` → Safe
 * `1` → Scam
 
+
 ## ✨ Key Features
+
 
 * Real-time detection
 * No prior enrollment
@@ -282,6 +326,7 @@ Labels:
 
 
 ## 🚀 Deployment & Future Scope
+
 
 * Cross-platform fraud detection
 * Telecom-level deployment
