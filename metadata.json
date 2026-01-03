@@ -1,0 +1,9 @@
+
+{
+  "name": "SHESTORM: AI Fraud Defender",
+  "description": "Real-time audio fraud detection system powered by Gemini, designed to protect users from sophisticated AI-driven scams and impersonation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
