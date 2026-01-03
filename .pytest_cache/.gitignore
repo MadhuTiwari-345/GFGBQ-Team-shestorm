@@ -1,38 +1,14 @@
-# ======================
 # Python
-# ======================
 __pycache__/
-**/__pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# ======================
-# Virtual environments
-# ======================
 .venv/
-venv/
-
-# ======================
-# Pytest / cache
-# ======================
-.pytest_cache/
-.cache/
-
-# ======================
-# Environment variables
-# ======================
 .env
-.env.*
 
-# ======================
-# Logs
-# ======================
-logs/
-*.log
+# Pytest
+.pytest_cache/
 
-# ======================
+# Node
+node_modules/
+
 # OS
-# ======================
 .DS_Store
-Thumbs.db
