@@ -16,11 +16,12 @@ Repository for shestorm - Vibe Coding Hackathon
 ### 👩‍💻 Contributors
 
 | Name         | Role                              |
-|              |                                   |
+|--------------|-----------------------------------|
 | Yamin        | Frontend & UX                     |
 | Ishani Gupta | Backend & API Development         |
 | Madhu Tiwari | AI / Machine Learning             |
 | Khushi Verma | Research, Documentation & Testing |
+
 
 📌 This project was collaboratively researched, architected, and implemented by **Team SHESTORM**.
 
