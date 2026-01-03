@@ -20,7 +20,7 @@ Repository for shestorm - Vibe Coding Hackathon
 
 | Name         | Role                              |
 |--------------|-----------------------------------|
-| Yamin        | Frontend & UX                     |
+| Yamini        | Frontend & UX                     |
 | Ishani Gupta | Backend & API Development         |
 | Madhu Tiwari | AI / Machine Learning             |
 | Khushi Verma | Research, Documentation & Testing |
