@@ -1,8 +1,0 @@
-{
-  "backend/test_websocket_robustness.py::test_invalid_json_returns_error": true,
-  "backend/test_websocket_robustness.py::test_transcript_validation_error_on_too_long": true,
-  "backend/test_auth_and_ws.py::test_websocket_accepts_valid_jwt": true,
-  "backend/test_auth_and_ws.py::test_websocket_rejects_invalid_jwt": true,
-  "backend/test_websocket.py::test_websocket": true,
-  "backend/test_websocket_backpressure_e2e.py::test_backpressure_causes_send_queue_drops": true
-}
