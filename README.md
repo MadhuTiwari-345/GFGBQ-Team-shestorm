@@ -1,21 +1,6 @@
 
-# Run and deploy 
 
-This contains everything which need to run app locally.
-
-View app : https://shestorm-ai-fraud-defender-73291669658.us-west1.run.app
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-    npm install
-2. Set the GEMINI_API_KEY in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-    npm run dev
-   
+  
 # GFGBQ-Team-shestorm
 Repository for shestorm - Vibe Coding Hackathon
 
@@ -33,6 +18,10 @@ Repository for shestorm - Vibe Coding Hackathon
 ## 👥 Team & Contributors
 
 **Team Name:** **SHESTORM**
+
+View app : https://shestorm-ai-fraud-defender-73291669658.us-west1.run.app
+
+Demo Link & PPT(PDF) : https://drive.google.com/drive/folders/1y_DknpPaxDXdqYZMj07zlWCOonYMsOap?usp=sharing
 
 ### 👩‍💻 Contributors
 
@@ -300,6 +289,21 @@ Labels:
 * Multilingual support
 * Regulatory compliance (GDPR/CCPA)
 
+
+# Run and deploy 
+
+This contains everything which need to run app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+    npm install
+2. Set the GEMINI_API_KEY in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+    npm run dev
 
 ## 🏁 Conclusion
 
