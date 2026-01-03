@@ -1,6 +1,9 @@
 # GFGBQ-Team-shestorm
 Repository for shestorm - Vibe Coding Hackathon
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+
 # 🛡️ Real-Time Audio Fraud Detection for Scam Prevention
 
 ### Conversation Intelligence for the AI vs AI Era (2026)
