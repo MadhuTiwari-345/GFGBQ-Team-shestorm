@@ -358,6 +358,8 @@ Labels:
 
 This contains everything which need to run app locally.
 
+---
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
