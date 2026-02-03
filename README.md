@@ -14,6 +14,8 @@ Repository for shestorm - Vibe Coding Hackathon
 > **Team SheStorm**
 > *In a world where every voice can be cloned, intent cannot hide.*
 
+---
+
 ## 👥 Team & Contributors
 
 **Team Name:** **SheStorm**
@@ -24,7 +26,7 @@ View app : https://shestorm-ai-fraud-defender-73291669658.us-west1.run.app
 
 Demo Link & PPT(PDF) : https://drive.google.com/drive/folders/1y_DknpPaxDXdqYZMj07zlWCOonYMsOap?usp=sharing
 
-
+---
 
 ### 👩‍💻 Contributors
 
@@ -39,6 +41,7 @@ Demo Link & PPT(PDF) : https://drive.google.com/drive/folders/1y_DknpPaxDXdqYZMj
 
 📌 This project was collaboratively researched, architected, and implemented by **Team SHESTORM**.
 
+---
 
 ## 📌 Introduction
 
@@ -58,12 +61,14 @@ Yet most systems still ask:
 
 ❌ This question is no longer sufficient.
 
+---
 
 ### ✅ Our Approach
 
 
 We introduce a **Real-Time Audio Fraud Detection System** that focuses on **detecting fraudulent intent and manipulative behavior during live conversations**, before irreversible actions are taken.
 
+---
 
 ## ❗ Problem Statement
 
@@ -78,6 +83,7 @@ We introduce a **Real-Time Audio Fraud Detection System** that focuses on **dete
 
 📌 Financial loss happens **within seconds** of answering a call.
 
+---
 
 ## 🧠 Core Philosophy
 
@@ -100,6 +106,7 @@ Our system focuses on:
 📌 Voices can be cloned.
 📌 **Intent cannot hide.**
 
+---
 
 ## 📞 How Fraud Appears in a Simple Call
 
@@ -114,6 +121,7 @@ Scam calls follow repeatable behavioral patterns:
 
 Our system detects these patterns **in real time**, even on first-time calls.
 
+---
 
 ## 🔍 How Fraud is Detected (Detailed Explanation)
 
@@ -131,6 +139,7 @@ Analyzes:
 
 📌 Detection is based on **intent combinations**, not keywords.
 
+---
 
 ### 2️⃣ Behavioral Analysis — *How it is said*
 
@@ -158,6 +167,7 @@ Detects:
 
 📌 A “bank agent” using threats → **High-risk indicator**
 
+---
 
 ## 🆚 Number-Based vs Conversation-Based Detection
 
@@ -180,6 +190,7 @@ Detects:
 
 📌 Fraud is revealed by **conversation behavior**, not caller ID.
 
+---
 
 ## 🆚 Competitive Advantage
 
@@ -191,6 +202,7 @@ Detects:
 | Nuance        | IVR security   | High latency         | Edge-ready system                |
 | Call Blockers | Number lists   | Easily spoofed       | Conversation intelligence        |
 
+---
 
 ## ⚙️ System Architecture
 
@@ -209,6 +221,7 @@ Risk Scoring Engine
    ↓
 User Alert & Prevention
 
+---
 
 ## 🧠 AI / ML Pipeline
 
@@ -236,6 +249,7 @@ User Alert & Prevention
 * Continuous risk scoring
 * Threshold-based alerts
 
+---
 
 ## 🖥️ Backend Architecture
 
@@ -253,7 +267,8 @@ User Alert & Prevention
 * Risk aggregation
 * Alert triggering
 * Event logging
-  
+
+  ---
 
 ## 🎨 Frontend Architecture
 
@@ -272,6 +287,7 @@ User Alert & Prevention
 * Voice alerts
 * Elder-friendly design
 
+---
 
 ## 🗄️ Database Design
 
@@ -291,6 +307,7 @@ Optional:
 
 * Vector DB for scam phrase embeddings
 
+---
 
 ## 🧪 Dataset Strategy
 
@@ -313,6 +330,7 @@ Labels:
 * `0` → Safe
 * `1` → Scam
 
+---
 
 ## ✨ Key Features
 
@@ -324,6 +342,7 @@ Labels:
 * Noise & accent tolerant
 * Conversation-based intelligence
 
+---
 
 ## 🚀 Deployment & Future Scope
 
@@ -350,6 +369,8 @@ This contains everything which need to run app locally.
 3. Run the app:
     npm run dev
 
+---
+
 ## 🏁 Conclusion
 
 Voice fraud is no longer an audio problem.
@@ -357,3 +378,4 @@ It is a **human manipulation problem**.
 
 This system acts as a **Real-Time Conversation Firewall**, protecting users before trust is exploited.
 
+---
