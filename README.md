@@ -53,7 +53,7 @@ Yet most systems still ask:
 
 # ✅ Our Approach
 
-We introduce a **Real-Time Audio Fraud Detection System** that focuses on detecting **fraudulent intent and manipulative behavior during live conversations** — before irreversible financial actions occur.
+We introduce a **Real-Time Audio Fraud Detection System** that focuses on detecting **fraudulent intent and manipulative behavior during live conversations** before irreversible financial actions occur.
 
 Instead of identifying the caller, we identify the **conversation pattern**.
 
