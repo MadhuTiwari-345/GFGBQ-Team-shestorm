@@ -290,3 +290,16 @@ Labels:
 1. Install dependencies:
    ```bash
    npm install
+   
+2. Add your Gemini API key to:
+   .env.local
+
+3. Run the app:
+ npm run dev
+
+🏁 Conclusion
+
+Voice fraud is no longer an audio problem.
+It is a human manipulation problem.
+
+Our system acts as a Real-Time Conversation Firewall, protecting users before trust is exploited.
