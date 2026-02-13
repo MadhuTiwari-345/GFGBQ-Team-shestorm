@@ -152,3 +152,141 @@ Detects:
 
 # ⚙️ System Architecture
 
+Live Audio Stream
+↓
+Acoustic Feature Extraction
+↓
+Real-Time Transcription
+↓
+Intent Analysis (NLP / LLM)
+↓
+Behavior & Emotion Analysis
+↓
+Risk Scoring Engine
+↓
+User Alert & Prevention
+
+
+---
+
+# 🧠 AI / ML Pipeline
+
+## 🔹 Acoustic Layer
+- MFCC & spectrogram features  
+- Vocoder artifact detection  
+- Noise-robust preprocessing  
+
+## 🔹 Semantic Layer
+- Streaming ASR  
+- Lightweight NLP / LLM classifier  
+- Intent categorization  
+
+## 🔹 Behavioral Layer
+- Speech cadence analysis  
+- Command repetition detection  
+
+## 🔹 Risk Engine
+- Multi-signal aggregation  
+- Continuous risk scoring  
+- Threshold-based alerts  
+
+---
+
+# 🖥️ Backend Architecture
+
+### Tech Stack
+- Python (FastAPI)  
+- WebSockets (live streaming)  
+- REST APIs  
+
+### Responsibilities
+- Audio chunk ingestion  
+- Model inference  
+- Risk aggregation  
+- Alert triggering  
+- Event logging  
+
+---
+
+# 🎨 Frontend Architecture
+
+## Web Dashboard
+- Live transcript  
+- Highlighted risky phrases  
+- Dynamic risk meter  
+- Real-time alert notifications  
+
+## Mobile UI (Concept)
+- Floating warning alerts  
+- Vibration notifications  
+- Voice alerts  
+- Elder-friendly interface  
+
+---
+
+# 🗄️ Database Design
+
+### Database
+- PostgreSQL / SQLite  
+
+### Stores
+- Call metadata  
+- Risk events  
+- Transcript snapshots  
+- Analytics logs  
+
+Optional:
+- Vector database for scam phrase embeddings  
+
+---
+
+# 🧪 Dataset Strategy
+
+## Why Synthetic Data?
+- Privacy constraints  
+- Scarcity of real scam datasets  
+- Controlled experimentation  
+
+## Dataset Includes
+- Scam & normal conversation scripts  
+- Emotional tone variations  
+- Noise profiles  
+- Multi-language samples  
+
+Labels:
+- `0` → Safe  
+- `1` → Scam  
+
+---
+
+# ✨ Key Features
+
+- Real-time fraud detection  
+- No prior user enrollment required  
+- Works on first-time calls  
+- Detects both human & AI-based scams  
+- Noise & accent tolerant  
+- Conversation intelligence driven  
+
+---
+
+# 🚀 Deployment & Future Scope
+
+- Cross-platform fraud detection  
+- Telecom-level integration  
+- AI watermark detection  
+- Multilingual expansion  
+- Regulatory compliance (GDPR / CCPA)  
+
+---
+
+# 🧑‍💻 Run Locally
+
+### Prerequisites
+- Node.js  
+
+### Setup
+
+1. Install dependencies:
+   ```bash
+   npm install
