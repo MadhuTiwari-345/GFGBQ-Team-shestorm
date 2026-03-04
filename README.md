@@ -1,4 +1,3 @@
----
 
 # 🛡️ GFGBQ – Team SheStorm  
 ## Real-Time Audio Fraud Detection for Scam Prevention  
@@ -307,3 +306,5 @@ Voice fraud is no longer an audio problem.
 It is a human manipulation problem.
 
 Our system acts as a Real-Time Conversation Firewall, protecting users before trust is exploited.
+
+---
