@@ -1,3 +1,5 @@
+---
+
 # 🛡️ GFGBQ – Team SheStorm  
 ## Real-Time Audio Fraud Detection for Scam Prevention  
 ### Conversation Intelligence for the AI vs AI Era (2026)
@@ -296,6 +298,8 @@ Labels:
 
 3. Run the app:
  npm run dev
+
+---
 
 🏁 Conclusion
 
